@@ -10,16 +10,16 @@ Department of Linguistics, University of Arizona (imported from https://sites.go
 |  25 | ch. 1, *linguistic essentials* | [[slides]()] |
 |  30 | ch. 3, *introduction* | [[slides]()] |
 | Sep 1 | (continued) | [[assignment#1]()] |
-|  | compound splitting | [[slides]()] [Koehn-Knight2003](https://www.aclweb.org/anthology/E03-1076.pdf) |
+|  | compound splitting | [[slides]()] [[Koehn-Knight2003](https://www.aclweb.org/anthology/E03-1076.pdf)] |
 | 6| ch. 6, *statistical inferences: n-gram* | [[slides]()] |
 | 8| (continued) | [[slides]()] |
 | 13| (continued) | [[slides]()] [[assignment#2]()] |
 | | ch. 10, *part-of-speech tagging* | [[slides]()] |
 | 15| (continued) |  |
-| 20| HMM  POS tagging | [[slides]()] [Rabiner1989](https://web.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf) |
+| 20| HMM  POS tagging | [[slides]()] [[Rabiner1989](https://web.ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/tutorial%20on%20hmm%20and%20applications.pdf)] |
 | 22| (continued) |  |
 | 27| (continued) |  |
-| | **Introduction to EM & unsupervised hmm** | [[slides]()] [Dempster-EtAl1977](http://web.mit.edu/6.435/www/Dempster77.pdf) [Blime1998](https://people.ece.uw.edu/bilmes/p/mypubs/bilmes1997-em.pdf) |
+| | **Introduction to EM & unsupervised hmm** | [[slides]()] [[Dempster-EtAl1977](http://web.mit.edu/6.435/www/Dempster77.pdf)] [[Blime1998](https://people.ece.uw.edu/bilmes/p/mypubs/bilmes1997-em.pdf)] |
 | 29| chap. 11, *probabilistic cfg* | [[slides]()] |
 | Oct 4 | (continued) cky |  |
 | 6 | (continued) early |  |
@@ -28,7 +28,7 @@ Department of Linguistics, University of Arizona (imported from https://sites.go
 | 18| final project proposal | [[slides]()] |
 | 20| (continued) |  |
 | 25| chap. 12, *probabilistic parsing* | [[slides]()] |
-| 27| **inside-outside algorithm** | [[slides]()] [Lari-Young1990](https://www.sciencedirect.com/science/article/pii/088523089090022X) |
+| 27| **inside-outside algorithm** | [[slides]()] [[Lari-Young1990](https://www.sciencedirect.com/science/article/pii/088523089090022X)] |
 | Nov 1-3| chap. 13, *SMT: word alignment*, **IBM Model 1** | [[slides]()] |
 | 8-10| (continued) |  |
 | 15,17,22| classification vs. clustering, **WSD using EM** | [[slides]()] |
