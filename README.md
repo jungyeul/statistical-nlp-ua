@@ -6,7 +6,7 @@ Department of Linguistics, University of Arizona (imported from https://sites.go
 ## Schedule
 | Date |	Description	 |Course Materials |
 | ------------ | ------------ | ------------  |
-| Aug 23 | introduction to NLP | [[slides]()] |
+| Aug 23 | introduction to NLP | [[slides](https://drive.google.com/file/d/1iPzvoXV93YBsp0t3AcCQNwOl00uhJ1Ud/view?usp=sharing)] |
 |  25 | ch. 1, *linguistic essentials* | [[slides]()] |
 |  30 | ch. 3, *introduction* | [[slides]()] |
 | Sep 1 | (continued) | [[assignment#1]()] |
